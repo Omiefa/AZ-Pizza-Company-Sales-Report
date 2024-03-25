@@ -11,7 +11,7 @@
 
 ## Project Overview
 This Data Analysis project aims to get insight from the AZ Pizza Company's Annual Sales data. By analyzing the various parameters in the data set,
-I seek to understand sales performance over the mouths of the different categories of pizza product the company produce. 
+I seek to understand sales performance over the months of the different categories of pizza product the company produce. 
 
 ## Data Sources
 The primary source of Data used is pizza_sales.xlsx and this is open source data that was freely downloaded from an open source online data repository site "kaggle"
@@ -58,7 +58,8 @@ The cleaning done on this table include
 
 The dataset only provided quantity sold and the price for each pizza product by size. There was no provision for total sales.
 
-The obtain the total sales, a DAX expression was written as follows:
+To obtain the total sales, which will help us understand sales by category, quarterly or monthly,
+a DAX expression was written as follows:
 ```
 Total Sales = SUMX(pizza_sales, pizza_sales[Quantity] * RELATED(pizzas[Price]))
 ```
