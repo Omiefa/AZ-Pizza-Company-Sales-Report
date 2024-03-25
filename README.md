@@ -64,15 +64,13 @@ a DAX expression was written as follows:
 Total Sales = SUMX(pizza_sales, pizza_sales[Quantity] * RELATED(pizzas[Price]))
 ```
 
-
-
 ## Results and Findings
 ![](Data-insight-1.png)
-some of the insight drived from the data set are as follows:
-- A Total of 44 persons responded spread around 4 African Countries
-- There are a Total 33 distinct "Occupations" and 4 distinct "Educational Levels"
-- The data shows that about 48% are Females and 52% are Males
-- The data also shows that majority of the responses recieved are Singles
+some of the insight drived from the pizza sales dataset are as follows:
+- AZ Pizza Company made a total sales of $817,860.05 in 49574 transactions
+- AZ Pizza Company produces four categories of Pizza of 5 different sizes
+- "Large Size" sales makes up about 46% of AZ Pizza Company's sales for the Year, in all category
+- "XXL Size" sales turns out the least sales for the Year and it is only available for the "Classic" category
 - The Age Range are in 5 categories and majority of the responses received are between ages 25 - 29
 ![](Data-insight-2.png)
 ![](Data-insight-3.png)
