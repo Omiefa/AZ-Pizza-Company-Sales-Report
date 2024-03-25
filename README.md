@@ -1,5 +1,7 @@
 # AZ-Pizza-Company-Sales-Report-Documentation
 
+![](Sales-Report.jpeg)
+
 **Documentation Outline**
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
