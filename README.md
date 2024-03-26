@@ -67,23 +67,22 @@ Total Sales = SUMX(pizza_sales, pizza_sales[Quantity] * RELATED(pizzas[Price]))
 ```
 
 ## Results and Findings
-![](Data-insight-1.png)
+![](Sales-insight-1.png)
 some of the insight drived from the pizza sales dataset are as follows:
-- AZ Pizza Company made a total sales of $817,860.05 in 49574 transactions
+- AZ Pizza Company made a total sales of **$817,860.05** in **49574** transactions
 - AZ Pizza Company produces four categories of Pizza of 5 different sizes
 - "Large Size" sales makes up about 46% of AZ Pizza Company's sales for the Year, in all category
-- "XXL Size" sales turns out the least sales for the Year and it is only available for the "Classic" category
-- The Age Range are in 5 categories and majority of the responses received are between ages 25 - 29
-![](Data-insight-2.png)
-![](Data-insight-3.png)
-![](Data-insight-4.png)
-![](Data-insight-5.png)
-![](Data-insight-6.png)
+- "XXL Size" sales turns out the least sales about 2% for the Year and it is only available for the "Classic" category
+- AZ Pizza Company made their monthly highest sales in the month of "July" but thier quarterly highest sales happened in the second quarter
+
+![](Sales-insight-2.png)
+![](Sales-insight-3.png)
+![](Sales-insight-4.png)
+![](Sales-insight-5.png)
 
 ## Conclusion and Recommendations
-The data set was transformed using power query editor and loaded into Power BI canva for visualization
-and the insight obtained from the data are as follows:
-1. About 95% of the students resides in Nigeria
+From the analysis done, the following are the conclusions we reached;
+1. 
 2. Majority of the students are Males and Singles and around the age range of 25-29
 
 It is clear from our analysis from the given dataset that youthful and single Nigerians are very interested in learning new tech skills.
