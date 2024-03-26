@@ -81,12 +81,5 @@ some of the insight drived from the pizza sales dataset are as follows:
 ![](Visuals/Sales-insight-5.png)
 
 ## Conclusion and Recommendations
-From the analysis done, the following are the conclusions we reached;
-1. 
-2. Majority of the students are Males and Singles and around the age range of 25-29
-
-It is clear from our analysis from the given dataset that youthful and single Nigerians are very interested in learning new tech skills.
-Also it is clear that SkilHarvest Academy has very little presence in other Afrian countries.
 
 ## Recommendation
-SkilHarvest Academy should increase their advertisments in the other African countries, to give same opportunity to the youths of those countries.
