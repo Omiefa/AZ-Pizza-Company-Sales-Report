@@ -1,6 +1,6 @@
 # AZ-Pizza-Company-Sales-Report-Documentation
 
-![](Sales-Report.jpeg)
+![](Sales-Report.jpg)
 
 **Documentation Outline**
 - [Project Overview](#project-overview)
@@ -67,7 +67,7 @@ Total Sales = SUMX(pizza_sales, pizza_sales[Quantity] * RELATED(pizzas[Price]))
 ```
 
 ## Results and Findings
-![](Sales-insight-1.png)
+![](Visuals/Sales-insight-1.png)
 some of the insight drived from the pizza sales dataset are as follows:
 - AZ Pizza Company made a total sales of **$817,860.05** in **49574** transactions
 - AZ Pizza Company produces four categories of Pizza of 5 different sizes
@@ -75,10 +75,10 @@ some of the insight drived from the pizza sales dataset are as follows:
 - "XXL Size" sales turns out the least sales about 2% for the Year and it is only available for the "Classic" category
 - AZ Pizza Company made their monthly highest sales in the month of "July" but thier quarterly highest sales happened in the second quarter
 
-![](Sales-insight-2.png)
-![](Sales-insight-3.png)
-![](Sales-insight-4.png)
-![](Sales-insight-5.png)
+![](Visuals/Sales-insight-2.png)
+![](Visuals/Sales-insight-3.png)
+![](Visuals/Sales-insight-4.png)
+![](Visuals/Sales-insight-5.png)
 
 ## Conclusion and Recommendations
 From the analysis done, the following are the conclusions we reached;
